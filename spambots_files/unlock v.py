@@ -1,0 +1,10 @@
+import pyautogui
+pyautogui.click(17,1004,duration=3,tween=pyautogui.easeInOutCubic)
+pyautogui.write("bitlocker",interval=0.5)
+pyautogui.click(121,474,duration=2)
+pyautogui.click(1180,410,duration=2)
+pyautogui.click(534,458,duration=2)
+pyautogui.click(931,118,duration=2)
+pyautogui.write("Vp4618@drivev",interval=0.2)
+pyautogui.click(1200,249,duration=1)
+pyautogui.click(1249,4,duration=2)
